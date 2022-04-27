@@ -13,3 +13,8 @@ let asf = ['fasasf']
 const asfLength = asf.length
 
 console.log(asfLength)
+
+const lolMsg = () => {
+
+    console.log('lol this is feature-branch')
+}
