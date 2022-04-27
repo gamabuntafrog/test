@@ -2,3 +2,8 @@ const sayHello = () => {
 
     console.log('hello')
 }
+
+const sayBranch = () => {
+
+    console.log('lol this is master branch')
+}
